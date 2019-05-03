@@ -1,0 +1,17 @@
+seq-env/
+all_sequences_random.json
+.DS_Store
+extractKmers_summary.json
+all_features.json
+all_sequences.json
+model/
+feature_data/
+test_train_data/
+tflearn_arch1_logs/
+tflearn_arch2_logs/
+output_data/
+test_thing.py
+all_features_15.json
+all_sequences_15.json
+all_sequences_random_15.json
+extractKmers_summary_15.json
